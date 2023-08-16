@@ -1,75 +1,18 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhd_iqbal600) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-ashraf-iqbal-8810b8242) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Noopsta1) 
 
-<h2 align="left">My name is Mohammad Ashraf Iqbal and I'm a Student from Muzaffarpur, Bihar, India</h2>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohammadAshrafIqbal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohammadAshrafIqbal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAshrafIqbal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<h2 align="left">About me</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=MohammadAshrafIqbal&icon=5&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p align="left">## About Me<br><br>Hey there! 👋 I'm [Your Name], a passionate developer with a diverse skill set in web development, programming, and data structures. I love bringing creative ideas to life through code and continuously expanding my knowledge in the tech world.<br><br>
-### My Skills<br><br>- **Web Development**: Proficient in HTML and CSS, I create visually appealing and responsive web experiences. I'm also experienced with Bootstrap, which allows me to develop modern and user-friendly interfaces quickly.<br><br>- **Programming**: I'm well-versed in C and C++, two powerful programming languages. From algorithms to applications, I enjoy tackling challenges and crafting efficient solutions.<br><br>- **Data Structures**: My understanding of data structures helps me design and implement algorithms that are both effective and optimized, ensuring smooth performance in my projects.<br><br>- **WordPress**: I have a knack for WordPress development, customizing themes, and building functional websites that cater to specific needs and aesthetics.<br><br>
-### What's Next?<br><br>I'm always eager to learn and explore new technologies. I'm currently working on expanding my knowledge of [technology/area you're interested in]. Feel free to connect and collaborate on exciting projects!<br><br>
-### Let's Connect<br><br>Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mohammad-ashraf-iqbal-8810b8242) for professional connections and collaborations.<br><br>Looking forward to sharing and learning with the GitHub community!</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.imgur.com/XWYqLlg.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MohammadAshrafIqbal/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MohammadAshrafIqbal/MohammadAshrafIqbal/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohammad-ashraf-iqbal-8810b8242" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <a href="mdashraffsiddique@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
